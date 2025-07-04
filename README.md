@@ -70,4 +70,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: url is now functioning and accessible
+
+
+Update:  Friday 04 July 2025 Anchor repair
