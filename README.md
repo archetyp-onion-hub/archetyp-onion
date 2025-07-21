@@ -78,4 +78,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: url is now accessible
+
+
+Update:  21.07.2025 21:49 Corrected outdated URLs in contributing guidelines
