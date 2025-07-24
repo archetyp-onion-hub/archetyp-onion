@@ -80,4 +80,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  21.07.2025 21:49 Corrected outdated URLs in contributing guidelines
+
+
+Update: url is back up and running
